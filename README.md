@@ -1,4 +1,4 @@
-# Hotel Guests Feedback Servey Power BI Dashboard
+# Hotel Guests Feedback Survey Power BI Dashboard
 
 This Dashboard is a visual representation of key metrics and insights related to customer experience. It is designed to be informative and easy to understand. Here’s a breakdown of the information displayed on the dashboard:
 
